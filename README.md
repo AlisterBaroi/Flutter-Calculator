@@ -1,16 +1,12 @@
-# my_second_app
+# Flutter-Calculator-Android
+This is my frist Flutter project, a simple calculator app for android, made from scratch using flutter.
+### Click [HERE](https://github.com/AlisterBaroi/Flutter-Calculator-Android/raw/master/build/app/outputs/flutter-apk/app-armeabi-v7a-release.apk) or scan the QR code below to download the App.<br>
+![image](https://user-images.githubusercontent.com/44337842/127054891-c82dd325-51fa-44b4-adba-047100201944.png)<br>
 
-A new Flutter project.
 
-## Getting Started
+## Dependencies
+Packages used:
+- math_expressions: ^2.0.1
+- flutter_launcher_icons: ^0.9.1
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
